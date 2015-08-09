@@ -1,3 +1,5 @@
+require 'gosu'
+
 class Game < Gosu::Window
 
   def initialize
